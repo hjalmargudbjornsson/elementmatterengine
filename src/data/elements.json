@@ -1,0 +1,15 @@
+[
+  { "symbol": "H", "number": 1, "battery": 2, "aerospace": 1, "biochem": 5 },
+  { "symbol": "He", "number": 2, "battery": 0, "aerospace": 3, "biochem": 0 },
+  { "symbol": "Li", "number": 3, "battery": 5, "aerospace": 2, "biochem": 1 },
+  { "symbol": "Be", "number": 4, "battery": 3, "aerospace": 4, "biochem": 1 },
+  { "symbol": "B",  "number": 5, "battery": 2, "aerospace": 3, "biochem": 2 },
+  { "symbol": "C",  "number": 6, "battery": 4, "aerospace": 2, "biochem": 5 },
+  { "symbol": "N",  "number": 7, "battery": 3, "aerospace": 2, "biochem": 5 },
+  { "symbol": "O",  "number": 8, "battery": 2, "aerospace": 2, "biochem": 5 },
+  { "symbol": "F",  "number": 9, "battery": 1, "aerospace": 2, "biochem": 3 },
+  { "symbol": "Ne", "number": 10,"battery": 0, "aerospace": 3, "biochem": 0 },
+  { "symbol": "Si", "number": 14,"battery": 4, "aerospace": 5, "biochem": 1 },
+  { "symbol": "Zn", "number": 30,"battery": 5, "aerospace": 5, "biochem": 2 },
+  { "symbol": "S",  "number": 16,"battery": 1, "aerospace": 2, "biochem": 4 }
+]
